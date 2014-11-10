@@ -1,0 +1,18 @@
+c:\users\oliver\documents\visual studio 2013\Projects\SudokuManager\SudokuManager\bin\Debug\SudokuManager.exe.config
+c:\users\oliver\documents\visual studio 2013\Projects\SudokuManager\SudokuManager\obj\Debug\SudokuManager.csprojResolveAssemblyReference.cache
+c:\users\oliver\documents\visual studio 2013\Projects\SudokuManager\SudokuManager\obj\Debug\SudokuManager.Form1.resources
+c:\users\oliver\documents\visual studio 2013\Projects\SudokuManager\SudokuManager\obj\Debug\SudokuManager.Properties.Resources.resources
+c:\users\oliver\documents\visual studio 2013\Projects\SudokuManager\SudokuManager\obj\Debug\SudokuManager.csproj.GenerateResource.Cache
+c:\users\oliver\documents\visual studio 2013\Projects\SudokuManager\SudokuManager\bin\Debug\SudokuManager.exe
+c:\users\oliver\documents\visual studio 2013\Projects\SudokuManager\SudokuManager\bin\Debug\SudokuManager.pdb
+c:\users\oliver\documents\visual studio 2013\Projects\SudokuManager\SudokuManager\obj\Debug\SudokuManager.exe
+c:\users\oliver\documents\visual studio 2013\Projects\SudokuManager\SudokuManager\obj\Debug\SudokuManager.pdb
+C:\Users\Oliver\Desktop\SudokuManager\SudokuManager\bin\Debug\SudokuManager.exe.config
+C:\Users\Oliver\Desktop\SudokuManager\SudokuManager\obj\Debug\SudokuManager.exe
+C:\Users\Oliver\Desktop\SudokuManager\SudokuManager\obj\Debug\SudokuManager.pdb
+C:\Users\Oliver\Desktop\SudokuManager\SudokuManager\bin\Debug\SudokuManager.exe
+C:\Users\Oliver\Desktop\SudokuManager\SudokuManager\bin\Debug\SudokuManager.pdb
+C:\Users\Oliver\Desktop\SudokuManager\SudokuManager\obj\Debug\SudokuManager.csprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\SudokuManager\SudokuManager\obj\Debug\SudokuManager.Form1.resources
+C:\Users\Oliver\Desktop\SudokuManager\SudokuManager\obj\Debug\SudokuManager.Properties.Resources.resources
+C:\Users\Oliver\Desktop\SudokuManager\SudokuManager\obj\Debug\SudokuManager.csproj.GenerateResource.Cache
